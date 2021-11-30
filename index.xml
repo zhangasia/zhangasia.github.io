@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://zhangasia.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Nov 2021 19:25:48 +0800</lastBuildDate><atom:link href="https://zhangasia.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>https://zhangasia.github.io/post/hello/</link>
+      <pubDate>Tue, 30 Nov 2021 19:25:48 +0800</pubDate>
+      
+      <guid>https://zhangasia.github.io/post/hello/</guid>
+      <description>一 二 三 #include &amp;lt;iostream&amp;gt;using namespace std; int main() { return 0; } $$ a^2 = c^2 + d^2 $$ 重点
+斜线
+hello
+ 引
+ When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are: $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
+When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are:</description>
+    </item>
+    
+  </channel>
+</rss>

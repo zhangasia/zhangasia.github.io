@@ -1,0 +1,26 @@
+## Hello Hugo
+
+### 代码
+
+```c++
+#include <iostream>
+using namespace std;
+int main()
+{
+	return 0;
+}
+```
+
+### 公式
+
+$$
+ a^2 = c^2 + d^2
+$$
+
+$a^2$
+
+**重点**
+
+***斜体***
+
+`hello`
